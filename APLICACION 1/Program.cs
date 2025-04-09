@@ -11,6 +11,7 @@ namespace APLICACION_1
         static void Main(string[] args)
         {
             Console.Write("Bienvenidos a las clases de c#");
+            Console.Write("Bienvenidos a las clases de c#");
             Console.ReadKey();
 
         }
